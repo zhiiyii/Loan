@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Loan</string>
+    <string name="selling_price">售价</string>
+    <string name="down_payment">首付</string>
+    <string name="first_time">首次购房者</string>
+    <string name="calculate">计算</string>
+    <string name="reset">重置</string>
+    <string name="legal_fees">法律费用</string>
+    <string name="stamp_duty">印花税</string>
+    <string name="contact_us">联系我们</string>
+    <string name="visit_us">访问网站</string>
+</resources>
